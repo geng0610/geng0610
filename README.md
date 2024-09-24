@@ -4,8 +4,8 @@ Welcome to my Github! I use this for side-projects and prototyping.
 
 Here are my three recent projects. (I built, designed, and deployed these projects.)
 
-<img width="100" alt="JIMOTO logo" src="[https://github.com/user-attachments/assets/43b6dc9c-54a3-403a-9f6e-9d234248998b]">
-- [JIMOTO.life](https://www.jimoto.life/)
+
+- <img width="32" alt="JIMOTO logo" src="https://github.com/user-attachments/assets/4c57a935-b7d3-4702-97e4-41e0e7cd1719">  [JIMOTO.life](https://www.jimoto.life/)
 
   - AI Powered Neighborhood Intelligence
   - Customer painpoint: "As a person planning to move to a new place, it takes a lot of time to research if i'll actually like living there and what life is like in the neighborhood."
@@ -15,8 +15,7 @@ Here are my three recent projects. (I built, designed, and deployed these projec
   - Built on MERN stack. Bootstrap 5.3 for styling. React JS for frontend.
 
 
-<img width="100" alt="JIMOTO logo" src="[https://github.com/user-attachments/assets/4bca61f3-fcfc-4c33-a63a-00a3d23f82ec]([https://github.com/user-attachments/assets/43b6dc9c-54a3-403a-9f6e-9d234248998b](https://github.com/user-attachments/assets/6a7d3019-862e-4db5-bf4f-064f6ab0960b))">
-- [Waestar](https://quadcore-client-9f58480106aa.herokuapp.com/project/66e216ad3d977257119e5480)
+- <img width="32" alt="Waestar logo" src="https://github.com/user-attachments/assets/5dfcde21-f0db-4951-a742-dec8c67c873e"> [Waestar](https://quadcore-client-9f58480106aa.herokuapp.com/project/66e216ad3d977257119e5480)
 
   - AI Assisted RFP Automation:
   - Customer painpoint: "As an enterprise buyer, it takes a lot of back and forth to evaluate a vendor for RFPs today. Vendors don't always provide the most clear answer and I often have to follow up for more context."
