@@ -4,7 +4,7 @@ Welcome to my Github! I use this for side-projects and prototyping.
 
 Here are my three recent projects. (I built, designed, and deployed these projects.)
 
-<img width="100" alt="JIMOTO logo" src="[https://github.com/user-attachments/assets/4bca61f3-fcfc-4c33-a63a-00a3d23f82ec](https://github.com/user-attachments/assets/43b6dc9c-54a3-403a-9f6e-9d234248998b)">
+<img width="100" alt="JIMOTO logo" src="[https://github.com/user-attachments/assets/43b6dc9c-54a3-403a-9f6e-9d234248998b]">
 - [JIMOTO.life](https://www.jimoto.life/)
 
   - AI Powered Neighborhood Intelligence
