@@ -4,7 +4,8 @@ Welcome to my Github! I use this for side-projects and prototyping.
 
 Here are my three recent projects. (I built, designed, and deployed these projects.)
 
-- [JIMOTO.life](https://www.jimoto.life/)
+- [JIMOTO.life](https://www.jimoto.life/) ![image](https://github.com/user-attachments/assets/43b6dc9c-54a3-403a-9f6e-9d234248998b)
+
   - AI Powered Neighborhood Intelligence
   - Customer painpoint: "As a person planning to move to a new place, it takes a lot of time to research if i'll actually like living there and what life is like in the neighborhood."
   - ([Demo](https://www.loom.com/share/954b155dc13a4d5eb09ade0d92951dc1?sid=a2843eee-fd3f-4c15-8432-aa688212d086))
@@ -12,7 +13,8 @@ Here are my three recent projects. (I built, designed, and deployed these projec
   - User friendly loader to mask response time with LLMs. <img width="640" alt="Screenshot 2024-09-24 at 3 41 10 PM" src="https://github.com/user-attachments/assets/c9df1af1-ea0e-4365-b932-dcee095d25e5">
   - Built on MERN stack. Bootstrap 5.3 for styling. React JS for frontend.
 
-- [Waestar](https://quadcore-client-9f58480106aa.herokuapp.com/project/66e216ad3d977257119e5480)
+- [Waestar](https://quadcore-client-9f58480106aa.herokuapp.com/project/66e216ad3d977257119e5480) ![image](https://github.com/user-attachments/assets/6a7d3019-862e-4db5-bf4f-064f6ab0960b)
+
   - AI Assisted RFP Automation:
   - Customer painpoint: "As an enterprise buyer, it takes a lot of back and forth to evaluate a vendor for RFPs today. Vendors don't always provide the most clear answer and I often have to follow up for more context."
   - [(Demo)](https://www.loom.com/share/dc907dee6192424b859b87579681cedc)
