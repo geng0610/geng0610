@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Jonathan!
+## Hi there, I'm Jonathan! 👋 
 
 My day job is in product management [I lead a product team](https://linkedin.com/in/gengt), and I use my GitHub for personal projects and experimentation.
 
