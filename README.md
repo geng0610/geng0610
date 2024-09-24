@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Welcome to my Github! I use this for side-projects and prototyping. 
+I'm Jonathan. My [day job](https://linkedin.com/in/gengt) is in product management (I lead a product team), and I use my github for personal projects and experimentation.
 
-Here are my three recent projects. (I built, designed, and deployed these projects.)
+Here are my recent projects. (I built, designed, and deployed these projects. :) )
 
 
 - <img width="32" alt="JIMOTO logo" src="https://github.com/user-attachments/assets/4c57a935-b7d3-4702-97e4-41e0e7cd1719">  [JIMOTO.life](https://www.jimoto.life/)
