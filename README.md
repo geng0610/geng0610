@@ -2,7 +2,7 @@
 
 Welcome to my Github! I use this for side-projects and prototyping. 
 
-Here are my three recent projects.
+Here are my three recent projects. (I built, designed, and deployed these projects.)
 
 - [JIMOTO.life](https://www.jimoto.life/)
   - AI Powered Neighborhood Intelligence
