@@ -2,7 +2,17 @@
 
 My day job is in product management [I lead a product team](https://linkedin.com/in/gengt), and I use my GitHub for personal projects and experimentation 👍.
 
+
 Here are my recent projects.
+
+- <img width="32" alt="Reachmore logo" src="https://github.com/user-attachments/assets/14e13570-94d3-412e-92d3-2bf8199a815a"> [Reachmore](https://reachmore-client-357ef0e91f7e.herokuapp.com/sign-in) 
+  - AI Powered Outbound Sales Tool ([DEMO](https://www.loom.com/share/b08e186151294b09bb9d0efd889f9594?sid=1a240b90-3a09-4e15-a147-b31415ed62d7))
+  - Generate a list of sales leads based on a set of sample contacts and a business context
+  - <img width="640" alt="Screenshot 2024-10-04 at 12 30 07 PM" src="https://github.com/user-attachments/assets/f2cbb710-8d59-4050-9bdd-6e344d351db7">
+
+  - Continuously adjust the list based on user's feedback
+  - List of up to 5000 results returned within 30 seconds.
+  - Built on MERN stack. Bootstrap 5.3 for styling. React JS for frontend.
 
 
 - <img width="32" alt="JIMOTO logo" src="https://github.com/user-attachments/assets/4c57a935-b7d3-4702-97e4-41e0e7cd1719">  [JIMOTO.life](https://www.jimoto.life/)
