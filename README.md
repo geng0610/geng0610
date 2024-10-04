@@ -30,8 +30,8 @@ Here are my recent projects.
   - AI Assisted RFP Automation:
   - Customer painpoint: "As an enterprise buyer, it takes a lot of back and forth to evaluate a vendor for RFPs today. Vendors don't always provide the most clear answer and I often have to follow up for more context."
   - [(Demo)](https://www.loom.com/share/dc907dee6192424b859b87579681cedc)
-  - AI facilite vendor response evalutions. <img width="1728" alt="image" src="https://github.com/user-attachments/assets/40f2538b-5733-40bc-89ba-784737b2f5d0">
-  - Features to manage RFPs and Vendor Responses. <img width="1728" alt="Screenshot 2024-09-24 at 4 20 10 PM" src="https://github.com/user-attachments/assets/d129c93b-463d-46e1-806f-b48065a3cb81">
+  - AI facilite vendor response evalutions. <img width="640" alt="image" src="https://github.com/user-attachments/assets/40f2538b-5733-40bc-89ba-784737b2f5d0">
+  - Features to manage RFPs and Vendor Responses. <img width="640" alt="Screenshot 2024-09-24 at 4 20 10 PM" src="https://github.com/user-attachments/assets/d129c93b-463d-46e1-806f-b48065a3cb81">
   - Built on MERN stack. Bootstrap 5.3 for styling. React+Typescript for frontend.
 
 
