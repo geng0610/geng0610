@@ -10,7 +10,7 @@ Here are my recent projects.
   - Generate a list of sales leads based on a set of sample contacts and a business context
   - <img width="640" alt="Screenshot 2024-10-04 at 12 30 07 PM" src="https://github.com/user-attachments/assets/f2cbb710-8d59-4050-9bdd-6e344d351db7">
 
-  - Continuously adjust the list based on user's feedback
+  - Continuously adjust the list based on user's feedback (RAG)
   - List of up to 5000 results returned within 30 seconds.
   - Built on MERN stack. Bootstrap 5.3 for styling. React JS for frontend.
 
