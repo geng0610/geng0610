@@ -1,9 +1,9 @@
 ## Hi there, I'm Jonathan! 👋 
 
-My day job is in product management [I lead a product team](https://linkedin.com/in/gengt), and I use my GitHub for personal projects and experimentation 👍.
+My day job is in [product management](https://linkedin.com/in/gengt), and I use my GitHub for personal projects and experimentation 👍.
 
 
-Here are my recent projects.
+Here are some of my projects.
 
 - <img width="32" alt="Reachmore logo" src="https://github.com/user-attachments/assets/14e13570-94d3-412e-92d3-2bf8199a815a"> [Reachmore](https://reachmore-client-357ef0e91f7e.herokuapp.com/sign-in) 
   - AI Powered Outbound Sales Tool ([DEMO](https://www.loom.com/share/b08e186151294b09bb9d0efd889f9594?sid=1a240b90-3a09-4e15-a147-b31415ed62d7))
